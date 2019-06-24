@@ -78,6 +78,15 @@
 >   * Ubuntu: 14.04以上
 > * Windows(python2.7):
 >   * windows7, windows10(运行环境python 2.x)
+>
+> 3. **安装**:
+> * linux下安装依赖:
+>	* pip install *
+>
+> * windows下安装:
+>	1. pip install pywin32
+> 	2. 在require下: pip install pyHook-1.5.1-cp27-cp27m-win_amd64.whl 即可!
+>
 
 -------------------
 
