@@ -1,0 +1,19 @@
+{
+    "database":{
+        "host":"127.0.0.1",
+        "port": 3306,        
+        "dbname":"database",
+        "username":"root",
+        "password":"password"
+    },
+    "save": {
+        "saveInterval":5,
+        "useMysql":false,
+        "useHttp":false,
+        "useLocal":false,
+        "filename":"logger.csv"
+    },
+    "sync":false, 
+    "datalog": "datalog.json"
+
+}

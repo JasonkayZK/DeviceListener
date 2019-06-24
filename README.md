@@ -154,9 +154,9 @@
 >	"mouse_speed": 0,
 >	"key_stroke": 0,
 >	"key_speed": 0,
->	"key_map": {"a": 5, "b": 6},
+>	"key_map": {},
 >	"ip": "127.0.0.1",
->	"click_position": ["123, 123"]
+>	"click_position": []
 > }
 > ```
 
